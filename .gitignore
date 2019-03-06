@@ -1,3 +1,5 @@
+.idea
+.git
 *.egg-info
 *.pyc
 .coverage
